@@ -22,6 +22,9 @@ veggy <- cabbages
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
 
 # Methods
+$H_0$: There is no difference in the average VitC content between c39 and c52 cultivation methods.
+
+$H_A$:There is a difference in the average VitC content between c39 and c52 cultivation methods.
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
